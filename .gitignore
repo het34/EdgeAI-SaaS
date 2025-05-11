@@ -1,0 +1,36 @@
+# Node modules
+node_modules/
+
+# Vite build output
+dist/
+
+# Local environment files
+.env
+.env.local
+.env.*.local
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# VS Code settings
+.vscode/
+
+# Optional: OS-specific settings
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Optional: lock files (if you use only one type of package manager)
+# Uncomment only one of the below if you want to ignore lock files
+# package-lock.json
+# yarn.lock
+# pnpm-lock.yaml
